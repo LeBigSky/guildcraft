@@ -1,0 +1,14 @@
+header {
+    height: 0px;
+    background-color: #212329;
+    margin-bottom: 200px;
+  }
+  
+  .navbar{
+    background-color: hsl(225, 11%, 15%);
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  #logo img {
+    max-width: 400px;
+  }
